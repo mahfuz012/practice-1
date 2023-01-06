@@ -187,3 +187,127 @@ button {
     margin-left: 30px;
     text-align: center;
 }
+.third-section-one{
+    text-align: center;
+   background-color: #dcfbd3df;
+    margin-left:250px;
+    margin-right:250px;   
+    margin-top:70px;
+   padding: 15px;
+   border-radius: 15px;
+   border-bottom:5px solid #c50303;
+}
+.third-section-one h2{
+margin-bottom: 35px;
+font-weight: 900;
+font-size: 2rem;
+color:#0d0c0c;
+
+}
+
+.third-section-two{
+    display: flex;
+ margin-top: 15px;
+    align-items: center;
+    margin-left:240px;
+    margin-right:240px;
+    padding: 10px; 
+    justify-content: space-between;
+
+}
+.two{
+    padding: 10px;
+background-color: rgba(194, 249, 240, 0.794);
+  height:238px;
+  text-align: center;
+  border-radius: 12px;
+margin-left: 10px;
+border-bottom-right-radius: 2rem;
+}
+.two h3{
+    line-height:45px;
+    color: #c50303;
+}
+.two i{
+    font-size: 45px;
+}
+.fouth-section-three{
+    border:1px solid black;
+    margin-left:240px;
+    margin-right:240px;
+    margin-top: 30px;
+}
+
+.fourth-part-1{
+    text-align: center;
+    padding: 10px;
+}
+.fourth-part-2{
+    border:1px solid black;
+    display: flex;
+   justify-content: center;
+}
+.left-side{
+    border:1px solid black;
+}
+.left-content{
+    margin-left: 10px;
+}
+.left-content h4{
+    line-height: 35px;
+}
+
+
+
+
+
+
+.fouth-section-container{
+margin-top: 65px;
+margin-left:220px;
+margin-right:220px;
+}
+.fourth-section-one{
+  
+    padding: 12px;
+    text-align: center;
+}
+.fourth-section-two{
+margin-top: 25px;
+}
+.part-of-section{
+
+    display: flex;
+}
+.part-one{
+ 
+    padding:10px;
+}
+.part-one h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+}
+.part-one h4{
+    line-height:50px ;
+    color: #4b4848;
+}
+hr{
+background-color: #7c7878;
+   height: 2.5px;
+   margin-top: 20px;
+}
+
+footer{
+  
+    border: 1px solid black;
+    margin-top:80px;
+    display: flex;
+
+}
+.icon-instruction{
+    border: 1px solid black;
+    padding: 15px;
+    padding-left:30px ;
+    padding-right:30px ;
+}
+
